@@ -22,7 +22,7 @@ Barem de punctare:
 &emsp; &emsp; - Setup - 5p [✅]  
 &emsp; &emsp; - Handle throw event - 3p [✅]  
 &emsp; &emsp; - Generate scor - 2p [✅]  
-&emsp; &emsp; - Bonus: animatii/efecte etc.  
+&emsp; &emsp; - Bonus: animatii/efecte etc. [✅]  
 
 
 ## Bonus
