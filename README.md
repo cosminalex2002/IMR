@@ -9,7 +9,8 @@
 Team members:  
 &emsp; &emsp; - Burca Theodor, 3B2  
 &emsp; &emsp; - Muraru Cosmin Alexandru, 3B2  
-Solved assignments are checkmarked: [✅].   
+Solved assignments are checkmarked: [✅].  
+*Link video: https://youtu.be/LMz12Z5z7dc?si=WPMLEIUtt4x93B8d*  
 
  
 ## General Info
@@ -26,3 +27,4 @@ Barem de punctare:
 
 ## Bonus
 Atunci cand mingea intra intr-o cutie, se va auzi sunetul "Siuuuu", iar atunci cand rateaza (mingea se duce prea departe), se va auzi "Harry Maguire".  
+*Link bonus: https://youtu.be/f7N3Rd0TXmo*  
