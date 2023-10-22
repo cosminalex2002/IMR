@@ -9,7 +9,8 @@
 Team members:  
 &emsp; &emsp; - Burca Theodor, 3B2  
 &emsp; &emsp; - Muraru Cosmin Alexandru, 3B2  
-Solved assignments are checkmarked: [✅].   
+Solved assignments are checkmarked: [✅].  
+*Link video: https://youtu.be/LMz12Z5z7dc?si=WPMLEIUtt4x93B8d*  
 
  
 ## General Info
