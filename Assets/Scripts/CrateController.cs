@@ -10,12 +10,14 @@ public class CrateController : MonoBehaviour
     private Vector3 initialPosition;
     private bool isGrabbing = false;
     private Rigidbody soccerBallRigidbody;
+    AudioSource audioSource;
 
     void Start()
     {
         scoreboard = GameObject.Find("Scoreboard").GetComponent<ScoreboardController>();
         initialPosition = soccerBall.transform.position;
         soccerBallRigidbody = soccerBall.GetComponent <Rigidbody>();
+        audioSource = GetComponent<AudioSource>();
     }
 
     void Update()
@@ -31,6 +33,11 @@ public class CrateController : MonoBehaviour
         if (distanceToCrate > 15f)
         {
             ResetSoccerBallPosition();
+
+            if (audioSource != null && audioSource.clip != null)
+            {
+                audioSource.Play();
+            }
         }
     }
 
